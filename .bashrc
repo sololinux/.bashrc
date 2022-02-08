@@ -11,7 +11,7 @@
 	#																							#
 	#	This program is officialy written by the copyright credit given to the peoples bellow	#																				   		
 	#	Only the modification in design is done by solo											#																				
-	#	Hence, I dont own this code..															#																							
+	#	Hence, I dont own all of this code..															#																							
 	#																							#
 	#		+-----------------------------------+-----------------------------------+     		#	
 	#		|                            FANCY BASH PROMT                           |			#
