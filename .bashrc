@@ -2,28 +2,28 @@
 									##      ~/.bashrc		 ##
 									###########################
 
-  ############################################################################################### 
-	#								                DOCUMENTATION											                            #
-	#																					                                                		#
-	#	ORIGINAL SOURCE: WOLFMAN'S color bash promt											                           	#
-	#	MODIFIED BY: sololinux(Github)														                                	#
-	#	COPYRIGHT: Copyright (c) 2018, Andres Gongora <mail@andresgongora.com>			            		#
-	#																						                                                	#
-	#	This program is officialy written by the copyright credit given to the peoples bellow	      #																				   		
-	#	Only the modification in design is done by solo											                        #																				
-	#	Hence, I dont own this code..														                                   	#																							
-	#																						                                                	#
-	#		+-----------------------------------+-----------------------------------+     	        	#	
-	#		|                            FANCY BASH PROMT                           |			            #
-	#		|                                                                       |			            #
-	#		|     Copyright (c) 2018, Andres Gongora <mail@andresgongora.com>.      |		            	#
-	#		+-----------------------------------------------------------------------+		            	#
-	#																							                                                #
-	#																							                                                #
-	#					Original source: WOLFMAN'S color bash promt								                          #
-	#			https://wiki.chakralinux.org/index.php?title=Color_Bash_Prompt#Wolfman.27s		          #
-	#																						                                                	#
-	###############################################################################################
+    ############################################################################################# 
+	#								      DOCUMENTATION											#
+	#																							#
+	#	ORIGINAL SOURCE: WOLFMAN'S color bash promt												#
+	#	MODIFIED BY: sololinux(Github)															#
+	#	COPYRIGHT: Copyright (c) 2018, Andres Gongora <mail@andresgongora.com>					#
+	#																							#
+	#	This program is officialy written by the copyright credit given to the peoples bellow	#																				   		
+	#	Only the modification in design is done by solo											#																				
+	#	Hence, I dont own this code..															#																							
+	#																							#
+	#		+-----------------------------------+-----------------------------------+     		#	
+	#		|                            FANCY BASH PROMT                           |			#
+	#		|                                                                       |			#
+	#		|     Copyright (c) 2018, Andres Gongora <mail@andresgongora.com>.      |			#
+	#		+-----------------------------------------------------------------------+			#
+	#																							#
+	#																							#
+	#					Original source: WOLFMAN'S color bash promt								#
+	#			https://wiki.chakralinux.org/index.php?title=Color_Bash_Prompt#Wolfman.27s		#
+	#																							#
+	#############################################################################################
 
 
 bash_prompt_command() {
