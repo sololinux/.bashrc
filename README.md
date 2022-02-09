@@ -26,5 +26,5 @@ nano ~/.bashrc
 <p>After that restart your terminal and see.</p>
 
 <h1>Credits</h1>
-<p>The bash code given above is modified version of the code copyright to Andres Gongora <mail@andresgongora.com>.</p>
+<p>The bash code given above is modified version of the code copyright to Andres Gongora "mail@andresgongora.com".</p>
   <p>Hence, most of the code is similar to the original source code.</p>
